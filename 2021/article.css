@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+
+
+.section-head {
+    font-family: Kirang Haerang;
+    font-weight: normal;
+    color: #333;
+    text-align: center;
+    font-size: 2.5em;
+    padding: 30px;
+}
+
+.content-section-head {
+    margin: 1em;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.vr-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 30px;
+    height: 350px;
+    width: auto;
+    border-radius: 20%;
+}
